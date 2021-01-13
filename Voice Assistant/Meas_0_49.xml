@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Msls_photo</folder>
+	<filename>Meas_0_49.jpeg</filename>
+	<path>C:\Users\admin\Desktop\RealBiz\Optum\Case and Submission Format - Engineering Track\Msls_photo\Meas_0_49.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Measles</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>6</ymin>
+			<xmax>257</xmax>
+			<ymax>111</ymax>
+		</bndbox>
+	</object>
+</annotation>
